@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c6de4ff6-da54-4a26-923a-672b8461aec7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b8dGuqdUf0zxBcIf53iiHdDbvd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6de4ff6-da54-4a26-923a-672b8461aec7" name="Default Changelist" comment="" />
+      <created>1588017561014</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588017561014</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="96" width="1166" height="572" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1588109684477">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state x="100" y="96" width="1166" height="572" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.24.1366.744@0.24.1366.744" timestamp="1588109684477" />
+    <state x="688" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1588036902918">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state x="688" y="224" key="com.intellij.ide.util.TipDialog/0.24.1366.744@0.24.1366.744" timestamp="1588036902918" />
+  </component>
+</project>
