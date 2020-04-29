@@ -55,4 +55,21 @@ O resultado da submissão vai ser sua nota ou o erro correspondente. Você pode 
 ### Resultado
 Meu score obtido foi **66%**
 
+Para executar o programa faça um clone do repositório:
+
+```
+https://github.com/FabianaRibas/Codenation.git
+```
+Acesse a pasta do projeto:
+```
+$ cd Codenation/PythonCodenation/
+```
+Adicione seu TOKEN ao arquivo secrets.py:
+```
+codenation_token = 'SEU_TOKEN'
+```
+E no terminal execute o arquivo caesars_cryptography.py:
+```
+ $ python3 caesars_cryptography.py
+```
 
